@@ -4,5 +4,5 @@ Javaのコマンドライン版でボードゲーム「Coyote」を再現した�
 完成したらAndroidへ移植する予定
 
 ## License
-see ./LICENSE
+see ./LICENSE  
 このプロジェクトはMITライセンスのもとで保護されています
